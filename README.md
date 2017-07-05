@@ -1,4 +1,4 @@
-# CartPole Bot using Neural Nerworks
+# CartPole Bot using Neural Networks
 
 A simple network that can learn to balance a pole using reinforcement learning using Tensorflow
 
